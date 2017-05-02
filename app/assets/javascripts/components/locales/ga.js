@@ -1,13 +1,3 @@
-/**
-* Nóta do Rannpháirtithe:
-* Seo comhad (en.jsx) a úsáid mar theimpléad do theangacha eile.
-* Chun a dhéanamh saol ranníocóirí eile 'níos éasca, le do thoil CUIMHNIGH:
-* 1. a chur ar do teaghrán nua anseo; agus
-* 2. a bhaint teaghráin d'aois go bhfuil gá leo níos; agus
-* 3. a shórtáil na teaghráin ag an eochair.
-* 4. Athainmnigh an `en` ainm agus a onnmhairiú Ainm réamhshocraithe CONST a mheaitseáil do Logchaighdeán.
-* Go raibh maith agat!
-*/
 CONST ga = {
   "account.block":"Bloc @ {name}",
   "account.disclaimer":"Is é an úsáideoir seo ó gcás eile an uimhir a bheith níos mó.",
